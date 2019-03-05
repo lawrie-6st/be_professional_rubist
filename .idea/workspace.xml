@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3fc48e4b-540d-47fe-a85e-aa9c003dcf14" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_2/2_2_x_play_ground.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_2/2_2_x_play_ground.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_2/2_3_x_play_ground.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_2/2_3_x_play_ground.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_2/2_4_x_play_ground.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_2/2_4_x_play_ground.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_2/2_5_x_play_ground.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_2/2_5_x_play_ground.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter_2/2_1_2_fizz_buzz.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_2/2_1_2_fizz_buzz.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Chapter_2/2_6_x_play_ground.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_2/2_6_x_play_ground.rb" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Chapter_2/2_1_2_fizz_buzz.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="345">
+              <caret line="23" column="3" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -66,11 +62,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter_2/2_6_x_play_ground.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="522">
-              <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
+            <state relative-caret-position="296">
+              <caret line="76" column="13" lean-forward="true" selection-start-line="76" selection-start-column="13" selection-end-line="76" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -83,13 +79,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Chapter_2/2_1_2_fizz_buzz.rb" />
         <option value="$PROJECT_DIR$/Chapter_2/2_x_x_play_ground.rb" />
         <option value="$PROJECT_DIR$/Chapter_2/2_2_x_play_ground.rb" />
         <option value="$PROJECT_DIR$/Chapter_2/2_3_x_play_ground.rb" />
         <option value="$PROJECT_DIR$/Chapter_2/2_4_x_play_ground.rb" />
         <option value="$PROJECT_DIR$/Chapter_2/2_5_x_play_ground.rb" />
         <option value="$PROJECT_DIR$/Chapter_2/2_6_x_play_ground.rb" />
+        <option value="$PROJECT_DIR$/Chapter_2/2_1_2_fizz_buzz.rb" />
       </list>
     </option>
   </component>
@@ -131,7 +127,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551776806281" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551778419421" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
@@ -186,12 +182,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551760971158</updated>
-      <workItem from="1551760974498" duration="10281000" />
+      <workItem from="1551760974498" duration="11469000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10281000" />
+    <option name="totallyTimeSpent" value="11469000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -204,9 +200,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16849817" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16849817" />
       <window_info id="デザイナー" order="1" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -222,7 +217,7 @@
       <window_info anchor="bottom" id="Structure" order="7" weight="0.24973877" />
       <window_info anchor="bottom" id="TODO" order="8" weight="0.32810867" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.30407524" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.30407524" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.3291536" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Maven" />
@@ -240,25 +235,7 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="ruby-line">
-          <url>file://$PROJECT_DIR$/Chapter_2/2_1_2_fizz_buzz.rb</url>
-          <line>12</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Chapter_2/2_1_2_fizz_buzz.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter_2/2_2_x_play_ground.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -287,10 +264,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../.anyenv/envs/rbenv/versions/2.5.3/lib/ruby/2.5.0/irb/ruby-lex.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="281" column="10" lean-forward="true" selection-start-line="281" selection-start-column="10" selection-end-line="281" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter_2/2_6_x_play_ground.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
+        <state relative-caret-position="296">
+          <caret line="76" column="13" lean-forward="true" selection-start-line="76" selection-start-column="13" selection-end-line="76" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_2/2_1_2_fizz_buzz.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="3" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
         </state>
       </provider>
     </entry>

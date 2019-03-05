@@ -39,8 +39,6 @@ hallo_world_2019_03_06
 #end
 #1_hallo_world
 
-
-
 # メソッド名をひらがなにする。(一般的ではないため。)
 def ハロー世界！
   p 'ハロー世界'
@@ -49,7 +47,8 @@ end
 ハロー世界！
 
 
-
+# 2.6.1_メソッドの戻り値
+# メソッドの戻り値は最後に評価された式
 def greeting(countly)
   if countly == 'japan'
     'おはよす'
@@ -61,9 +60,23 @@ end
 greeting('japan')
 greeting('fiji')
 
-
-
-
+# 2.6.2 メソッド定義に置ける引数の()
+# 引数がない場合は（）を付けない
+def hallo
+ p 'hallo'
+end
+# （）を付けてもいいが省略されることが多い
+def hallo()
+  p 'hallo'
+end
+# 引数がある場合でも、（）は省力できる。
+def hallo countly
+  if countly== 'japan'
+    p 'こんちわ'
+  else
+    p 'hallo'
+  end
+end
 
 
 
