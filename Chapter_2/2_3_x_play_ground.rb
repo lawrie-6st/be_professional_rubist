@@ -1,9 +1,7 @@
-# ruby 2_2_x_play_ground.rb
+# ruby Chapter/2_3_x_play_ground.rb
+p "文字列"
+p '文字列'
 
-a,b,c = 10,20,30
-p a
-p b
-p c
+puts "hallo \n sir!"
 
-d= [a,b,c]
-p d
+p "ruby" == "rubyist"

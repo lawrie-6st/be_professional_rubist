@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3fc48e4b-540d-47fe-a85e-aa9c003dcf14" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_2/2_1_2_fizz_buzz.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_2/2_1_2_fizz_buzz.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter_2/2_2_x_play_ground.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_2/2_2_x_play_ground.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter_2/2_3_x_play_ground.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_2/2_3_x_play_ground.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter_2/2_4_x_play_ground.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_2/2_4_x_play_ground.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter_2/2_5_x_play_ground.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_2/2_5_x_play_ground.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter_2/2_6_x_play_ground.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_2/2_6_x_play_ground.rb" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,11 +21,56 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter_2/2_1_2_fizz_buzz.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="210">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter_2/2_2_x_play_ground.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter_2/2_3_x_play_ground.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter_2/2_4_x_play_ground.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter_2/2_5_x_play_ground.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter_2/2_6_x_play_ground.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="522">
+              <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
             </state>
           </provider>
         </entry>
@@ -36,6 +84,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Chapter_2/2_1_2_fizz_buzz.rb" />
+        <option value="$PROJECT_DIR$/Chapter_2/2_x_x_play_ground.rb" />
+        <option value="$PROJECT_DIR$/Chapter_2/2_2_x_play_ground.rb" />
+        <option value="$PROJECT_DIR$/Chapter_2/2_3_x_play_ground.rb" />
+        <option value="$PROJECT_DIR$/Chapter_2/2_4_x_play_ground.rb" />
+        <option value="$PROJECT_DIR$/Chapter_2/2_5_x_play_ground.rb" />
+        <option value="$PROJECT_DIR$/Chapter_2/2_6_x_play_ground.rb" />
       </list>
     </option>
   </component>
@@ -62,6 +116,11 @@
               <item name="be_professional_rubist" type="b2602c69:ProjectViewProjectNode" />
               <item name="be_professional_rubist" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="be_professional_rubist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="be_professional_rubist" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter_2" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -72,10 +131,15 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551771297572" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551776806281" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Chapter_2" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -122,36 +186,45 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551760971158</updated>
-      <workItem from="1551760974498" duration="5302000" />
+      <workItem from="1551760974498" duration="10281000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5302000" />
+    <option name="totallyTimeSpent" value="10281000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16849817" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="デザイナー" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI デザイナー" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3299285" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32890704" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39916405" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32903865" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.30407524" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info id="デザイナー" order="1" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI デザイナー" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.3291536" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32890704" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.39916405" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Structure" order="7" weight="0.24973877" />
+      <window_info anchor="bottom" id="TODO" order="8" weight="0.32810867" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.30407524" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.3291536" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -181,8 +254,43 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Chapter_2/2_1_2_fizz_buzz.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_2/2_2_x_play_ground.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_2/2_3_x_play_ground.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_2/2_4_x_play_ground.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_2/2_5_x_play_ground.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_2/2_6_x_play_ground.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
         </state>
       </provider>
     </entry>

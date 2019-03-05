@@ -1,4 +1,4 @@
-# ruby 2_x_x_play_ground.rb
+# ruby 2_2_x_play_ground.rb
 
 a,b,c = 10,20,30
 p a
