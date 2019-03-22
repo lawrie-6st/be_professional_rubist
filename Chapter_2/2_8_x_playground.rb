@@ -24,7 +24,7 @@ a= <<TEXT
 複数行に渡って文字列を作成するのに便利やで。
 TEXT
 puts a
-
+# TODO: 書き方が面白い。
 def some_method
 a= <<TEXT
 これはヒアドキュメントやで。

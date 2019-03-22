@@ -1,3 +1,5 @@
+
+
 class Team
   extend DeepFreezable
   COUNTRIES = deep_freeze(%w[JAPAN US INDIA])
@@ -26,3 +28,6 @@ module DeepFreezable
     array_or_hash.freeze
   end
 end
+
+
+# TODO:読み直す。明らかに理解不足。

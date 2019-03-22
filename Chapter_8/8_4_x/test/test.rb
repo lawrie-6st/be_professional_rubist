@@ -1,6 +1,6 @@
 # ruby Chapter_8/8_4_x/text.rb
 require 'minitest/autorun'
-require_relative '../../Chapter_8/8_4_x/lib'
+require_relative '../../8_4_x/lib/lib'
 
 class DeepFreezableTest < Minitest::Test
   def test_deep_freeze_to_hash
