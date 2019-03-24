@@ -7,6 +7,12 @@ puts true.to_s
 puts false.to_s
 puts /\d+/.to_s
 
+puts 'リテラルとは、ソースコードに直接埋め込むことができる値'
+123
+"hello"
+[1,2,3]
+{'japan'=> 'yen','us' => 'dollor','india'=> 'rupee'}
+
 puts 'メソッドの呼び出し'
 a,b,c = 10,20,30
 p a
