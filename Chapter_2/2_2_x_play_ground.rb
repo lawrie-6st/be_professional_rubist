@@ -1,5 +1,13 @@
-# ruby 2_2_x_play_ground.rb
+# ruby Chapter_2/2_2_x_play_ground.rb
+puts '2.2.1すべてがオブジェクト'
+puts '1'.to_s
+puts 1.to_s
+puts nil.to_s
+puts true.to_s
+puts false.to_s
+puts /\d+/.to_s
 
+puts 'メソッドの呼び出し'
 a,b,c = 10,20,30
 p a
 p b

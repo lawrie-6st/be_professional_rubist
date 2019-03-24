@@ -2,63 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0fba6fcd-404d-44cd-a59c-537a6b87b619" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Chapter_9/9_6_x.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_10/10_5_x.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_2/2_8_x_playground.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_2/2_8_x_playground.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_3/3_2_x_minitest.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_3/3_2_x_minitest.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_3/3_3_2/lib/fizz_buzz.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_3/3_3_2/lib/fizz_buzz.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_3/3_3_2/test/fizz_buzz_test.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_3/3_3_2/test/fizz_buzz_test.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_3/3_3_2/test/fizz_buzz_test_rspec.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_3/3_3_2/test/fizz_buzz_test_rspec.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_3/3_3_2/test/fizz_buzz_test_testunit.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_3/3_3_2/test/fizz_buzz_test_testunit.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_3/3_3_x_automation_fizz_buzz_test.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_3/3_3_x_automation_fizz_buzz_test.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_4/4_1_x_introduction.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_4/4_1_x_introduction.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_4/4_2_x_array.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_4/4_2_x_array.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_4/4_3_x_block.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_4/4_3_x_block.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_4/4_4_x_block_and_array.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_4/4_4_x_block_and_array.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_4/4_5_x_range.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_4/4_5_x_range.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_4/4_6_x/lib/rgb.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_4/4_6_x/lib/rgb.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_4/4_6_x/test/rgb_test.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_4/4_6_x/test/rgb_test.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_4/4_6_x_example_rgbprogram.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_4/4_6_x_example_rgbprogram.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_4/4_7_x_array_more.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_4/4_7_x_array_more.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_4/4_8_x_block_more.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_4/4_8_x_block_more.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_4/4_9_x_repetition_more.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_4/4_9_x_repetition_more.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_5/5_2_x_hash.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_5/5_2_x_hash.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_5/5_3_x_simbol.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_5/5_3_x_simbol.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_5/5_5_x/lib/convert_length.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_5/5_5_x/lib/convert_length.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_5/5_5_x/test/convert_length_test.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_5/5_5_x/test/convert_length_test.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_5/5_6_x_hash_more.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_5/5_6_x_hash_more.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_5/5_7_x_simbol_more.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_5/5_7_x_simbol_more.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_6/6_1_x_introduction.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_6/6_1_x_introduction.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_6/6_2_x.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_6/6_2_x.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_6/6_3_x.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_6/6_3_x.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_7/7_10_x.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_7/7_10_x.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_7/7_2_x.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_7/7_2_x.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_7/7_3_4.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_7/7_3_4.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_7/7_3_x.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_7/7_3_x.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_7/7_5_0.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_7/7_5_0.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_7/7_5_1.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_7/7_5_1.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_7/7_5_2.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_7/7_5_2.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_7/7_5_3.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_7/7_5_3.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_7/7_6_5.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_7/7_6_5.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_7/7_6_6.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_7/7_6_6.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_7/7_7_1.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_7/7_7_1.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_7/7_7_3.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_7/7_7_3.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_7/7_7_4.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_7/7_7_4.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_7/7_8_x.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_7/7_8_x.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_8/8_1_x.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_8/8_1_x.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_8/8_2_x.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_8/8_2_x.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_8/8_3_x.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_8/8_3_x.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_8/8_4_x/lib/lib.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_8/8_4_x/lib/lib.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_8/8_4_x/test/test.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_8/8_4_x/test/test.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_8/8_5_8.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_8/8_5_8.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_8/8_5_x.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_8/8_5_x.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_8/8_6_x.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_8/8_6_x.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_8/8_7_x.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_8/8_7_x.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_8/8_9_x.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_8/8_9_x.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_9/9_1_x.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_9/9_1_x.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_9/9_3_x.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_9/9_3_x.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter_10/10_1_x.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_10/10_1_x.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter_10/10_2_x.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_10/10_2_x.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter_10/10_3_x.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_10/10_3_x.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter_10/lib/world_synce_test.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_10/lib/world_synce_test.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter_10/test/test.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_10/test/test.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Chapter_9/9_4_x.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_9/9_4_x.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_9/9_5_x.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_9/9_5_x.rb" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -75,39 +26,44 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter_9/9_3_x.rb">
+        <entry file="file://$PROJECT_DIR$/Chapter_10/10_3_x.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+            <state>
+              <caret selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter_9/9_4_x.rb">
+        <entry file="file://$PROJECT_DIR$/Chapter_10/test/test.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter_9/9_5_x.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-column="25" />
+            <state relative-caret-position="420">
+              <caret line="28" column="49" selection-start-line="28" selection-start-column="49" selection-end-line="28" selection-end-column="49" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Chapter_9/9_6_x.rb">
+        <entry file="file://$PROJECT_DIR$/Chapter_10/10_5_x.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="546">
-              <caret line="37" column="14" lean-forward="true" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
+            <state relative-caret-position="142">
+              <caret line="82" lean-forward="true" selection-start-line="82" selection-end-line="82" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter_10/lib/world_synce_test.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/be_professional_rubist.iml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -118,12 +74,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Chapter_4/4_5_x_range.rb" />
-        <option value="$PROJECT_DIR$/Chapter_4/4_6_x_example_rgbprogram.rb" />
-        <option value="$PROJECT_DIR$/Chapter_4/4_6_x/lib/rgb.rb" />
-        <option value="$PROJECT_DIR$/Chapter_4/4_6_x/test/rgb_test.rb" />
-        <option value="$PROJECT_DIR$/Chapter_4/4_7_x_array_more.rb" />
-        <option value="$PROJECT_DIR$/Chapter_4/4_8_x_block_more.rb" />
         <option value="$PROJECT_DIR$/Chapter_4/4_9_x_repetition_more.rb" />
         <option value="$PROJECT_DIR$/Chapter_5/5_2_x_hash.rb" />
         <option value="$PROJECT_DIR$/Chapter_5/5_3_x_simbol.rb" />
@@ -166,9 +116,15 @@
         <option value="$PROJECT_DIR$/Chapter_8/8_9_x.rb" />
         <option value="$PROJECT_DIR$/Chapter_9/9_1_x.rb" />
         <option value="$PROJECT_DIR$/Chapter_9/9_3_x.rb" />
-        <option value="$PROJECT_DIR$/Chapter_9/9_4_x.rb" />
         <option value="$PROJECT_DIR$/Chapter_9/9_5_x.rb" />
         <option value="$PROJECT_DIR$/Chapter_9/9_6_x.rb" />
+        <option value="$PROJECT_DIR$/Chapter_9/9_4_x.rb" />
+        <option value="$PROJECT_DIR$/Chapter_10/10_1_x.rb" />
+        <option value="$PROJECT_DIR$/Chapter_10/10_2_x.rb" />
+        <option value="$PROJECT_DIR$/Chapter_10/10_3_x.rb" />
+        <option value="$PROJECT_DIR$/Chapter_10/lib/world_synce_test.rb" />
+        <option value="$PROJECT_DIR$/Chapter_10/test/test.rb" />
+        <option value="$PROJECT_DIR$/Chapter_10/10_5_x.rb" />
       </list>
     </option>
   </component>
@@ -184,6 +140,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -196,13 +153,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553219395142" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553387895234" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Ruby" />
@@ -361,7 +317,11 @@
       <workItem from="1552989298145" duration="954000" />
       <workItem from="1553049968427" duration="569000" />
       <workItem from="1553081841954" duration="1189000" />
-      <workItem from="1553127993472" duration="7312000" />
+      <workItem from="1553127993472" duration="7313000" />
+      <workItem from="1553224019375" duration="1039000" />
+      <workItem from="1553314474268" duration="6460000" />
+      <workItem from="1553383163171" duration="3567000" />
+      <workItem from="1553404786399" duration="67000" />
     </task>
     <servers />
   </component>
@@ -398,7 +358,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68243000" />
+    <option name="totallyTimeSpent" value="79377000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -413,12 +373,12 @@
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7166922" visible="true" weight="0.1916972" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.71056664" visible="true" weight="0.2014652" />
       <window_info id="デザイナー" order="1" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="UI デザイナー" order="4" />
-      <window_info id="Structure" order="5" sideWeight="0.28330782" side_tool="true" visible="true" weight="0.1916972" />
+      <window_info id="Structure" order="5" sideWeight="0.2894334" side_tool="true" visible="true" weight="0.2014652" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32810867" />
@@ -448,43 +408,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Chapter_5/5_2_x_hash.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_5/5_6_x_hash_more.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="48" column="6" lean-forward="true" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_2/2_1_2_fizz_buzz.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_2/2_2_x_play_ground.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_2/2_3_x_play_ground.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_2/2_4_x_play_ground.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_5/5_7_x_simbol_more.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter_2/2_6_x_play_ground.rb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -754,14 +677,7 @@
     <entry file="file://$PROJECT_DIR$/Chapter_9/9_3_x.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_9/9_4_x.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="25" />
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -772,10 +688,62 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_9/9_4_x.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter_9/9_6_x.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="37" column="14" lean-forward="true" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
+        <state>
+          <caret selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_10/10_1_x.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_10/10_2_x.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_10/10_3_x.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_10/test/test.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="49" selection-start-line="28" selection-start-column="49" selection-end-line="28" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_10/lib/world_synce_test.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/be_professional_rubist.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_10/10_5_x.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="82" lean-forward="true" selection-start-line="82" selection-end-line="82" />
         </state>
       </provider>
     </entry>
