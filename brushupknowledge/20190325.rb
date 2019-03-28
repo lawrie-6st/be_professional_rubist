@@ -1,8 +1,9 @@
 # ruby brushupknowledge/20190325.rb
+require_relative  '../Chapter_3/3_3_2/lib/fizz_buzz'
 puts 'reprise chapter 2'
 
 name = 'alice'
-puts 'hello,'+ name + '!'
+puts 'hello,' + name + '!'
 
 n = 1
 puts 'nは' + n.to_s + 'です。'
@@ -11,21 +12,21 @@ puts 'nは' + n.to_s + 'です。'
 n -= 1
 puts 'nは' + n.to_s + 'です。'
 
-
-#　p30 コラム
+# 　p30 コラム
 # 割り切れない数などで、丸め誤差があるので、それは警戒する必要がある。
 
-def fizz_buzz(n = nil)
 
-  if n%15 == 0
-    puts 'fizz_buzz'
-  elsif n%3 == 0
-    puts 'fizz'
-  elsif n%5 == 0
-    puts 'buzz'
-  else
-    puts n.to_s
+fizz_buzz(6)
+
+
+puts 'reprise chapter 3'
+#３章は結構頑張ったので、覚えてる。
+
+require 'rspec'
+RSpec.describe do
+  it 'should something' do
+    puts 'i am perfect man'
   end
 end
 
-fizz_buzz(6)
+puts 'reprise chapter 4'
