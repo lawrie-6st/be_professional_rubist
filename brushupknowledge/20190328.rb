@@ -85,6 +85,7 @@ module AwesomeApi_v2
   end
 end
 
+
 AwesomeApi.baseurl = 'something'
 AwesomeApi.debug_mode = true
 puts AwesomeApi.debug_mode
@@ -103,4 +104,12 @@ puts AwesomeApi_v2.baseurl
 
 # TODO:例外処理で事前にエラーメッセージがわかっている場合は、それに合わせて、絞り込んであげる必要はある？
 # 例えば同じ400番のHTTPエラーでも、複数メッセージがある場合は、特定のメッセージの時のみ例外処理してあげるなど。
-#
+400 電話番号
+400 メールアドレスが無い場合
+
+・必要なそうする。必要じゃない場合は、そうしない。
+・目的により異なる。
+
+・プログラミングの基本は、目的別に考えること。
+・目的あっての手段。（目的合っての、手段）
+・目的に必要な、目的ベース。
