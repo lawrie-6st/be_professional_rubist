@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2e628bc-dc64-493d-b9fa-c6f42ffb23d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/brushupknowledge/20190330.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brushupknowledge/20190811.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/be_professional_rubist.iml" beforeDir="false" afterPath="$PROJECT_DIR$/be_professional_rubist.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/brushupknowledge/20190328.rb" beforeDir="false" afterPath="$PROJECT_DIR$/brushupknowledge/20190328.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/brushupknowledge/20190811.rb" beforeDir="false" afterPath="$PROJECT_DIR$/brushupknowledge/20190811.rb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +75,9 @@
       <option name="presentableId" value="Default" />
       <updated>1565513825704</updated>
       <workItem from="1565513827195" duration="1896000" />
-      <workItem from="1565577045247" duration="1787000" />
+      <workItem from="1565577045247" duration="2460000" />
+      <workItem from="1565579831342" duration="616000" />
+      <workItem from="1565580477449" duration="4544000" />
     </task>
     <servers />
   </component>
@@ -103,6 +98,6 @@
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/be_professional_rubist@.rcov" NAME="名前未設定 Coverage Results" MODIFIED="1565578252110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" MODULE_NAME="be_professional_rubist" />
+    <SUITE FILE_PATH="coverage/be_professional_rubist@.rcov" NAME="名前未設定 Coverage Results" MODIFIED="1565599630800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" MODULE_NAME="be_professional_rubist" />
   </component>
 </project>
